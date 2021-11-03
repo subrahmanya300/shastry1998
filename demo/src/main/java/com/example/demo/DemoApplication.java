@@ -18,6 +18,7 @@ public class DemoApplication {
 		Student s = app.getBean(Student.class);
 		s.show();
 		
+		//The above one is just a show method.
 	}
 
 }
