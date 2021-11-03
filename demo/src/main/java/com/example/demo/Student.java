@@ -35,4 +35,8 @@ public class Student {
 		System.out.println("Inside Student");
 		laptop.show();
 	}
+	
+	void difference() {
+		System.out.println("Show difference");
+	}
 }
